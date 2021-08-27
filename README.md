@@ -24,4 +24,4 @@
 |박용훈|이성준|고도희|민선아|
 |:---:|:---:|:---:|:---:|
 | | | |
-|[@yw9142](https://github.com/yw9142)|[@lee-sj](https://github.com/lee-sj)|[@hotsun1508](https://github.com/hotsun1508)|[@DohuiKo](https://github.com/DohuiKo)
+|[@yw9142](https://github.com/yw9142)|[@lee-sj](https://github.com/lee-sj)|[@DohuiKo](https://github.com/DohuiKo)|[@hotsun1508](https://github.com/hotsun1508)
